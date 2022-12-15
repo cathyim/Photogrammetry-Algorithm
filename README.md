@@ -1,14 +1,12 @@
 # SeniorComprehensiveProjectCode
 
-## To run this algorithm you need 
-### Installed:
+## To run this algorithm you need:
   1) Python version +2.7
-### Imported:
-  1) numpy
-  2) glob
-  3) openCV2
-  4) PyntCloud
-  5) pandas
+  2) numpy
+  3) glob
+  4) openCV2
+  5) PyntCloud
+  6) pandas
   
 ## Input
 There are two methods of photo-taking. The user could station the object on a rotatable surface, such as a tray or turntable, with the camera in a fixed position and capture a photo of the object every few degrees. The user could also have the object stationed in a singular position and have the camera rotate around the object from a fixed distance from the object. For both methods, each sequential photo should be the same number of degrees apart. 
@@ -29,5 +27,5 @@ The final 3D model is generated in the form of a point cloud. For this, I used t
 7) Change line 103 in the cameracalibration.py file to match the distance from the camera and object along the floor.
 8) Change line 104 in the cameracalibration.py file to match the change to height of camera.
 9) Run cameracalibration.py file
-10) Go to line 50 in imagematching.py and change to reflect your camera's sensor dimensions (provided by manufacturer).
+10) Go to line 58 in imagematching.py and change to reflect your camera's sensor dimensions (provided by manufacturer).
 11) Now, run the main method!
