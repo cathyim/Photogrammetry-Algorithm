@@ -1,4 +1,4 @@
-# SeniorComprehensiveProjectCode
+# A Photogrammetry Algorithm
 
 ## To run this algorithm you need:
   1) Python version +2.7
