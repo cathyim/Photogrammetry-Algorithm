@@ -23,11 +23,11 @@ The final 3D model is generated in the form of a point cloud. For this, I used t
 2) Gather all of your calibration photos (your checkerboard photos) in another folder. 
 3) Change line 4 in the main.py file to match the file path that you created for step 1.
 3) Change line 6 in the main.py file to match the number of photos that are in that file.
-4) Change line 103 in the cameracalibration.py file to match the folder path of you created for step 2.
-5) Change line 104 in the cameracalibration.py file to the focal length = 3.3 of your camera (provided by the manufacturer).
-6) Change line 105 in the cameracalibration.py file to match number of photos of your object.
-7) Change line 106 in the cameracalibration.py file to match the distance from the camera and object along the floor.
-8) Change line 107 in the cameracalibration.py file to match the change to height of camera.
+4) Change line 100 in the cameracalibration.py file to match the folder path of you created for step 2.
+5) Change line 101 in the cameracalibration.py file to the focal length = 3.3 of your camera (provided by the manufacturer).
+6) Change line 102 in the cameracalibration.py file to match number of photos of your object.
+7) Change line 103 in the cameracalibration.py file to match the distance from the camera and object along the floor.
+8) Change line 104 in the cameracalibration.py file to match the change to height of camera.
 9) Run cameracalibration.py file
-10) Go to line 52 in imagematching.py and change to reflect your camera's sensor dimensions (provided by manufacturer).
+10) Go to line 50 in imagematching.py and change to reflect your camera's sensor dimensions (provided by manufacturer).
 11) Now, run the main method!
