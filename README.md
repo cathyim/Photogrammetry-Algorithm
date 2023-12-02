@@ -1,7 +1,7 @@
 # A Photogrammetry Algorithm
 
 ## Overview:
-![alt text](https://github.com/cathyim/SeniorComprehensiveProjectCode/blob/main/Poster.pdf)
+![alt text](https://github.com/cathyim/SeniorComprehensiveProjectCode/blob/main/Overview.png)
 
 
 ## To run this algorithm you need:
